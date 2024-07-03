@@ -1,2 +1,11 @@
 # CV-2024-Spring
-My homework submissions of the "Computer Vision (CV)" course at National Taiwan University (NTU), taught by Shao-Yi Chien.
+### My homework submissions of the "Computer Vision (CV)" course at National Taiwan University (NTU), taught by Shao-Yi Chien.
+
+## HW1
+
+- Difference of Gaussian
+- Joint Bilateral Filter
+
+## HW2
+## HW3
+## HW4
