@@ -7,5 +7,14 @@
 - Joint Bilateral Filter
 
 ## HW2
+
+- Bag-of-Words Scene Recognition
+- CNN Image Classification
+
 ## HW3
+
+- Projective Geometry (Homography Estimation)
+
 ## HW4
+
+- Stereo Matching (Disparity Estimation)
